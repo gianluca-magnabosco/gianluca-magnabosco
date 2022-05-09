@@ -24,4 +24,4 @@
 * [Auto Preenchimento Petições ePROC](https://github.com/gianluca-magnabosco/Auto-Preenchimento-Peticoes-ePROC)</br >
 * [Pascal Exercises/Exercícios Pascal](https://github.com/gianluca-magnabosco/Pascal-Exercises)</br >
 * [C Exercises/Exercícios C](https://github.com/gianluca-magnabosco/C-Exercises)</br >
-
+* [WEB Exercises](https://github.com/gianluca-magnabosco/WEB-Exercises)</br >
