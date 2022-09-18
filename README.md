@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/gianluca-magnabosco">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gianluca-magnabosco&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=35"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianluca-magnabosco&layout=compact&langs_count=7&theme=dark&border_radius=35"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianluca-magnabosco&layout=compact&langs_count=8&theme=dark&border_radius=35"/>
 </div>
 
 ##
@@ -52,6 +52,7 @@
 ## Repositories
 
 * [Youtube Audio Downloader](https://github.com/gianluca-magnabosco/Youtube-Song-Downloader)
+* [Java MineSweeper](https://github.com/gianluca-magnabosco/Java-Minesweeper)</br >
 * [PHP Website](https://github.com/gianluca-magnabosco/PHP-website)</br >
 * [CSV/Excel formatted file to Google Calendar API Event Importer](https://github.com/gianluca-magnabosco/CSV-to-Google-Calendar-API)</br >
 * [Agendador ePROC](https://github.com/gianluca-magnabosco/Agendador-ePROC)</br >
