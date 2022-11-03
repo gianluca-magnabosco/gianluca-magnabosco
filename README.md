@@ -52,11 +52,12 @@
 ## Repositories
 
 * [Youtube Audio Downloader](https://github.com/gianluca-magnabosco/Youtube-Song-Downloader)
-* [Java MineSweeper](https://github.com/gianluca-magnabosco/Java-Minesweeper)</br >
-* [PHP Website](https://github.com/gianluca-magnabosco/PHP-website)</br >
-* [CSV/Excel formatted file to Google Calendar API Event Importer](https://github.com/gianluca-magnabosco/CSV-to-Google-Calendar-API)</br >
-* [Agendador ePROC](https://github.com/gianluca-magnabosco/Agendador-ePROC)</br >
-* [Auto Preenchimento Petições ePROC](https://github.com/gianluca-magnabosco/Auto-Preenchimento-Peticoes-ePROC)</br >
-* [Pascal Exercises/Exercícios Pascal](https://github.com/gianluca-magnabosco/Pascal-Exercises)</br >
-* [C Exercises/Exercícios C](https://github.com/gianluca-magnabosco/C-Exercises)</br >
-* [WEB Exercises (HTML, CSS, JS, PHP, MySQL)](https://github.com/gianluca-magnabosco/WEB-Exercises)</br >
+* [Java MineSweeper](https://github.com/gianluca-magnabosco/Java-Minesweeper)<br/>
+* [PHP Website](https://github.com/gianluca-magnabosco/PHP-website)<br/>
+* [CSV/Excel formatted file to Google Calendar API Event Importer](https://github.com/gianluca-magnabosco/CSV-to-Google-Calendar-API)<br/>
+* [Agendador ePROC](https://github.com/gianluca-magnabosco/Agendador-ePROC)<br/>
+* [Auto Preenchimento Petições ePROC](https://github.com/gianluca-magnabosco/Auto-Preenchimento-Peticoes-ePROC)<br/>
+* [Pascal Exercises/Exercícios Pascal](https://github.com/gianluca-magnabosco/Pascal-Exercises)<br/>
+* [C Exercises/Exercícios C](https://github.com/gianluca-magnabosco/C-Exercises)<br/>
+* [WEB Exercises (HTML, CSS, JS, PHP, MySQL)](https://github.com/gianluca-magnabosco/WEB-Exercises)<br/>
+* [LOL Lavanderia Online](https://github.com/gianluca-magnabosco/LOL-Lavanderia-Online)<br/>
