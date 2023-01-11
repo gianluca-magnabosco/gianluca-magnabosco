@@ -52,6 +52,7 @@
 ## Repositories
 
 * [Youtube Audio Downloader](https://github.com/gianluca-magnabosco/Youtube-Song-Downloader)
+* [Bakery Cost Manager](https://github.com/gianluca-magnabosco/Bakery-Cost-Manager)<br/>
 * [Java MineSweeper](https://github.com/gianluca-magnabosco/Java-Minesweeper)<br/>
 * [PHP Website](https://github.com/gianluca-magnabosco/PHP-website)<br/>
 * [CSV/Excel formatted file to Google Calendar API Event Importer](https://github.com/gianluca-magnabosco/CSV-to-Google-Calendar-API)<br/>
