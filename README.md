@@ -1,5 +1,3 @@
-<br/>
-
 ## Welcome to my GitHub Profile! / Bem-vindo ao meu Perfil do GitHub!
 
 <br/>
