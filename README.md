@@ -58,7 +58,6 @@
 
 ## Relevant Repositories
 
-* [Bakery Cost Manager WEB](https://github.com/gianluca-magnabosco/Bakery-Cost-Manager-WEB)
 * [LOL Lavanderia Online](https://github.com/gianluca-magnabosco/LOL-Lavanderia-Online)<br/>
 * [Youtube Audio Downloader](https://github.com/gianluca-magnabosco/Youtube-Song-Downloader)
 * [Bakery Cost Manager](https://github.com/gianluca-magnabosco/Bakery-Cost-Manager)<br/>
