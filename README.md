@@ -60,6 +60,7 @@
 
 * [Youtube Audio Downloader](https://github.com/gianluca-magnabosco/Youtube-Song-Downloader)
 * [Cálculo Correção Monetária INPC](https://github.com/gianluca-magnabosco/Calculo-Correcao-Monetaria-INPC)
+* [C Word Indexer](https://github.com/gianluca-magnabosco/Indexer)<br/>
 * [BANTADS](https://github.com/gianluca-magnabosco/bantads)<br/>
 * [LOL Lavanderia Online](https://github.com/gianluca-magnabosco/LOL-Lavanderia-Online)<br/>
 * [Bakery Cost Manager](https://github.com/gianluca-magnabosco/Bakery-Cost-Manager)<br/>
